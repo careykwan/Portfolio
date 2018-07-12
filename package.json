@@ -1,0 +1,21 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Carey's website",
+  "main": "index.html",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "ck",
+  "license": "(ISC)",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
